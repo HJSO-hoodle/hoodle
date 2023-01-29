@@ -1,0 +1,32 @@
+
+.wordInput{
+    width: 200px;
+    height: 50px;
+}
+
+.wordArea{
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.testWord{
+    width:50px;
+    height: 50px;
+    border: solid 1px;
+    border-color: white;
+    margin-right: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.splitWord{
+    width:50px;
+    height: 50px;
+    border: solid 1px;
+    border-color: darkgray;
+    margin-right: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
